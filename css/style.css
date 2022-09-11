@@ -1,0 +1,49 @@
+.text-uppercase {
+  text-transform: uppercase;
+}
+
+.btn-hover:hover {
+  background-color: #6377e4;
+  transform: scale(0.9);
+}
+
+.img-180 {
+  width: 55px;
+  height: 55px;
+}
+
+.img-about-us-radius {
+  border-radius: 0 20px 0 20px;
+}
+
+.navbar-brand:hover {
+  transition: all 300ms;
+  transform: scale(1.1);
+}
+
+.img-partner {
+  width: 220px;
+  height: 206px;
+  border-radius: 100%;
+}
+
+.img-customer-hover {
+  filter: blur(3px);
+  transition: filter .3s ease-in-out;
+}
+.img-customer-hover:hover {
+  filter: none;
+}
+
+.anchor-contact {
+  text-decoration: none;
+}
+.anchor-contact:focus {
+  text-decoration: none;
+}
+.anchor-contact:active {
+  text-decoration: none;
+}
+.anchor-contact:hover {
+  text-decoration: none;
+}
